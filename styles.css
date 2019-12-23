@@ -1,0 +1,32 @@
+
+body {
+  font-family: Arial,sans-serif; 
+}
+
+#btn_test {
+  color: white;
+}
+
+#friss {
+  background-color: #222d32;
+  color: white;
+  border: 2px solid #d2d6de;
+}
+
+#futasi_uzenet {
+  background-color: #222d32;
+  color: white;
+  border: 2px solid #d2d6de;
+  overflow-wrap: break-word;
+  
+}
+
+#txt_1 {
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+
+#txt_2 {
+    white-space: pre-wrap;
+    word-break: break-all;
+}
