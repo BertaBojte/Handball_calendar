@@ -1,2 +1,2 @@
-# Handball_calendar
+# Handball calendar
 As a huge handball fan, I wanted to have all the handball matches in a google calendar, so me and my family can plan accordingly. In order to do this, I created a small program in R, that downloads all the matches and puts them into a google calendar which is shared among my family. To be able to update the calendar without opening an IDE, I created a small website, which allows me to update the calendar from any browser, any time.
